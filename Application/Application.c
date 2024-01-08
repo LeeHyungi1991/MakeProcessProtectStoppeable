@@ -23,5 +23,5 @@ int main()
     //printf("Bytes read : %d\n", dwBytesRead);
 
     CloseHandle(hDevice);
-	return 1;
+	return 0;
 }
